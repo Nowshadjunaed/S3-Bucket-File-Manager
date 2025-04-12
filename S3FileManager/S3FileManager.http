@@ -1,0 +1,6 @@
+@S3FileManager_HostAddress = http://localhost:5258
+
+GET {{S3FileManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
